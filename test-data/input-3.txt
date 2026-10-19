@@ -1,0 +1,3 @@
+# GT4500 a másodlagos raktárból próbál lőni, ha az elsődleges üres
+GT4500,0,0,10,0
+TORPEDO,SINGLE # másodlagos raktárból kell hogy lőjjön

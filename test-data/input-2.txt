@@ -1,0 +1,4 @@
+# GT4500 torpedói felváltva vannak kilőve a raktáralból
+GT4500,10,0,10,0
+TORPEDO,SINGLE # elsődleges raktárból kell hogy lőjjön
+TORPEDO,SINGLE # másodlagos raktárból kell hogy lőjjön
