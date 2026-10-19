@@ -1,0 +1,3 @@
+# being able to shoot a torpedo from one of the ship's stores
+GT4500,10,0,0,0
+TORPEDO,SINGLE

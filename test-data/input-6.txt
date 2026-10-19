@@ -1,0 +1,5 @@
+# Elsodleges tar lo ketszer mert a masodlagos ures, majd mindketto kifogy
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
